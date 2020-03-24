@@ -1,0 +1,7 @@
+C:\Users\dhtmd\Desktop\WorkShop\C#\RPGVersionUpdateHelper\RPGVersionUpdateHelper\bin\Debug\RPGVersionUpdateHelper.pdb
+C:\Users\dhtmd\Desktop\WorkShop\C#\RPGVersionUpdateHelper\RPGVersionUpdateHelper\obj\Debug\RPGVersionUpdateHelper.csprojAssemblyReference.cache
+C:\Users\dhtmd\Desktop\WorkShop\C#\RPGVersionUpdateHelper\RPGVersionUpdateHelper\obj\Debug\RPGVersionUpdateHelper.pdb
+C:\Users\dhtmd\Desktop\WorkShop\C#\RPGVersionUpdateHelper\RPGVersionUpdateHelper\bin\Debug\RPGVersionUpdateHelper.exe
+C:\Users\dhtmd\Desktop\WorkShop\C#\RPGVersionUpdateHelper\RPGVersionUpdateHelper\obj\Debug\RPGVersionUpdateHelper.exe
+C:\Users\dhtmd\Desktop\WorkShop\C#\RPGVersionUpdateHelper\RPGVersionUpdateHelper\obj\Debug\RPGVersionUpdateHelper.MainForm.resources
+C:\Users\dhtmd\Desktop\WorkShop\C#\RPGVersionUpdateHelper\RPGVersionUpdateHelper\obj\Debug\RPGVersionUpdateHelper.csproj.GenerateResource.cache
