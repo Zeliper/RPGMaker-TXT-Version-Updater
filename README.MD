@@ -2,4 +2,4 @@
 =============
 »ç¿ë¹ý
 -------------
-{% include YouTubeLink.html id="https://www.youtube.com/watch?v=5iE32T8bymE" %}  
+{% include YouTubeLink.html id="5iE32T8bymE" %}  
