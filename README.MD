@@ -2,11 +2,4 @@
 =============
 »ç¿ë¹ý
 -------------
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=5iE32T8bymE">
-     <img 
-      src="https://img.youtube.com/vi/5iE32T8bymE/0.jpg" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
+{% include YouTubeLink.html id="https://www.youtube.com/watch?v=5iE32T8bymE" %}  
