@@ -2,4 +2,4 @@
 =============
 사용법
 -------------
-{% include YouTubeLink.html id="5iE32T8bymE" %}  
+[사용법 유튜브 영상](https://www.youtube.com/watch?v=5iE32T8bymE)
